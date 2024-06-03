@@ -16,7 +16,7 @@ Climate change is widely recognized as one of the main current threats to biodiv
 
 ## codes
 
-All analyses were performed in [R language](https://www.r-project.org/). This folder contains R code files used:
+All analyses were performed in [R language](https://www.r-project.org/) version 4.3.2. To run the analysis we used a machine with the following specifications: ‘AMD® Ryzen 7 7800h with radeon graphics × 16 cores' with 40GB RAM, and 512 GB SSD. The software used was Windows 11. This folder contains R code files used:
 
 -   `1.models_Maxent_ENMwizard.R`: build SDMs for species
 -   `2.removing_overprediction_iucn_ranges.R`: remove overprediction of the SDMs
