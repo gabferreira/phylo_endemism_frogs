@@ -1,0 +1,385 @@
+species,family,branch_length,area_present,area_fut_optimistic,area_fut_pessimistic,percent_change_optimistic,percent_change_pessimistic,change_in_range,iucn_category
+Atelopus_flavescens,Bufonidae,1.304801143,38963818096,21304004,0,-99.94532362,-100,total_loss,Least Concern
+Boana_dentei,Hylidae,15.50982768,99240550470,490946494,0,-99.50529648,-100,total_loss,Least Concern
+Peltophryne_fustiger,Bufonidae,4.40660822,4603433900,19743932,0,-99.57110426,-100,total_loss,Least Concern
+Peltophryne_longinasus,Bufonidae,10.3972395,1740698106,791807916,0,-54.51204817,-100,total_loss,Critically Endangered
+Scinax_jolyi,Hylidae,7.349177081,2728096064,0,0,-100,-100,total_loss,Endangered
+Scinax_proboscideus,Hylidae,6.968393438,56625435756,0,0,-100,-100,total_loss,Least Concern
+Trachycephalus_hadroceps,Hylidae,2.791250996,88667339496,1043674720,0,-98.82293218,-100,total_loss,Least Concern
+Osteocephalus_oophagus,Hylidae,6.328587294,9.01E+11,75748409898,36122226128,-91.59059882,-95.98979977,decrease,Least Concern
+Scinax_pachycrus,Hylidae,9.168848941,85663517448,12120138990,3514264218,-85.85145771,-95.89759524,decrease,Least Concern
+Rhinella_scitula,Bufonidae,4.481502475,28743857972,276353928,1401875666,-99.03856355,-95.1228688,decrease,Least Concern
+Atelopus_franciscus,Bufonidae,1.897380052,37462944276,745659626,2110139270,-98.00960752,-94.36739607,decrease,Least Concern
+Dendropsophus_ruschii,Hylidae,16.85580063,1204794752,140402406,100292740,-88.34636308,-91.67553313,decrease,Least Concern
+Boana_cordobae,Hylidae,6.509340603,17126083756,6730401764,1482615518,-60.70087091,-91.342939,decrease,Least Concern
+Rhinella_rubescens,Bufonidae,2.412768358,3.81E+11,1.10E+11,48753218150,-71.11064414,-87.18711352,decrease,Least Concern
+Boana_ornatissima,Hylidae,18.25928309,4.98E+11,2.00E+11,1.07E+11,-59.88642024,-78.56310627,decrease,Least Concern
+Dendropsophus_mathiassoni,Hylidae,16.524207,78294798490,29789436446,23193338830,-61.95221519,-70.37690973,decrease,Least Concern
+Aplastodiscus_leucopygius,Hylidae,5.302320045,37852414014,15828738734,11406779392,-58.18301383,-69.86512039,decrease,Least Concern
+Boana_sibleszi,Hylidae,10.39230396,36149247628,19083337986,11382923778,-47.2095846,-68.51131206,decrease,Least Concern
+Boana_joaquini,Hylidae,6.935667642,6341921702,3217063358,2074473240,-49.27305146,-67.28951669,decrease,Least Concern
+Bokermannohyla_luctuosa,Hylidae,5.234757413,31861690656,22969417428,10810645676,-27.90898111,-66.07008149,decrease,Least Concern
+Hyloscirtus_antioquia,Hylidae,8.870850897,3546173794,2123043794,1209846054,-40.13142284,-65.88305807,decrease,Vulnerable
+Boana_lundii,Hylidae,5.678698381,3.29E+11,2.02E+11,1.21E+11,-38.53360174,-63.24967231,decrease,Least Concern
+Dendropsophus_haddadi,Hylidae,6.459713565,44790608232,27329985854,16909943584,-38.98277578,-62.2466757,decrease,Least Concern
+Dendropsophus_sarayacuensis,Hylidae,17.32719886,1.47E+12,7.34E+11,5.70E+11,-50.10237555,-61.24648671,decrease,Least Concern
+Atelopus_peruensis,Bufonidae,0.151841641,13773589104,12680675250,5470470566,-7.93485159,-60.28289704,decrease,Critically Endangered
+Nannophryne_cophotis,Bufonidae,0.809540921,15017027678,11002725028,5967389716,-26.73167245,-60.26251104,decrease,Critically Endangered
+Rhinella_ruizi,Bufonidae,1.200763949,3376470342,3100437546,1443568576,-8.175187934,-57.24622373,decrease,Vulnerable
+Incilius_porteri,Bufonidae,4.643572967,7358544808,5140146016,3316616662,-30.14724854,-54.92836222,decrease,Least Concern
+Scinax_hayii,Hylidae,0.731102357,1.25E+11,75891986494,58398757142,-39.07423057,-53.11772195,decrease,Least Concern
+Dendropsophus_elianeae,Hylidae,11.4958047,6.89E+11,2.51E+11,3.35E+11,-63.64149803,-51.3665564,decrease,Least Concern
+Dendropsophus_bifurcus,Hylidae,3.461395325,2.59E+11,1.34E+11,1.27E+11,-47.9794849,-50.95293811,decrease,Least Concern
+Rhinella_achavali,Bufonidae,2.37260284,1.72E+11,1.25E+11,85344883090,-27.42048357,-50.2725283,decrease,Least Concern
+Scinax_cardosoi,Hylidae,19.33468461,67925632356,36463418792,33906052604,-46.3186171,-50.08356724,decrease,Least Concern
+Rhinella_nicefori,Bufonidae,4.021092305,169778822,42440660,84886634,-75.00238281,-50.00163566,decrease,Endangered
+Rhinella_margaritifera,Bufonidae,1.827668652,5.07E+12,3.13E+12,2.60E+12,-38.3380801,-48.72238654,decrease,Least Concern
+Osteocephalus_mutabor,Hylidae,2.934645587,37536612978,37324773972,19270599594,-0.564353012,-48.66185821,decrease,Least Concern
+Peltophryne_peltocephala,Bufonidae,2.17322348,33294657446,22894351536,17566476634,-31.23716148,-47.23935315,decrease,Least Concern
+Boana_cinerascens,Hylidae,17.06142488,4.64E+12,2.94E+12,2.45E+12,-36.51171479,-47.07137117,decrease,Least Concern
+Aplastodiscus_arildae,Hylidae,5.712152074,1.19E+11,76802305030,63275356038,-35.48094873,-46.84448678,decrease,Least Concern
+Atelopus_palmatus,Bufonidae,3.473140075,234999288,469942026,128152066,99.9759361,-45.46704073,decrease,Critically Endangered
+Dendropsophus_gaucheri,Hylidae,2.415278171,659819548,681199918,383187340,3.240335947,-41.92543383,decrease,Least Concern
+Scinax_uruguayus,Hylidae,7.732834154,53582251332,49392306448,34231765828,-7.819650686,-36.11361043,decrease,Least Concern
+Rhinella_festae,Bufonidae,6.240327213,26820869866,30244434216,17295197220,12.76455375,-35.51589748,decrease,Least Concern
+Bokermannohyla_circumdata,Hylidae,2.502897333,2.98E+11,2.12E+11,1.93E+11,-28.78082607,-35.36128726,decrease,Least Concern
+Scinax_garbei,Hylidae,6.968393438,2.34E+12,1.59E+12,1.52E+12,-32.09180525,-35.10332833,decrease,Least Concern
+Dendropsophus_berthalutzae,Hylidae,1.824648988,30532288850,27200644372,20178197984,-10.91187266,-33.911938,decrease,Least Concern
+Aplastodiscus_cavicola,Hylidae,1.481334451,1.28E+11,1.09E+11,84496811610,-14.80318843,-33.85242372,decrease,Least Concern
+Rhinella_roqueana,Bufonidae,2.557822416,2.95E+11,2.17E+11,1.98E+11,-26.39371093,-32.75209973,decrease,Least Concern
+Scinax_longilineus,Hylidae,7.542022809,90658703486,74689307226,61647505578,-17.6148518,-32.00045533,decrease,Least Concern
+Dendropsophus_melanargyreus,Hylidae,15.80283369,2.19E+12,1.49E+12,1.51E+12,-32.18030771,-31.03962186,decrease,Least Concern
+Dendropsophus_oliveirai,Hylidae,1.806596111,5.00E+11,3.78E+11,3.46E+11,-24.38624803,-30.74796162,decrease,Least Concern
+Rhaebo_ecuadorensis,Bufonidae,3.746202976,44220368818,34477436628,30796338942,-22.03267962,-30.35711876,decrease,Least Concern
+Dendropsophus_jimi,Hylidae,1.628236703,4.46E+11,3.50E+11,3.11E+11,-21.5835499,-30.20859147,decrease,Least Concern
+Boana_faber,Hylidae,15.6183377,8.97E+11,7.02E+11,6.29E+11,-21.82405896,-29.94367122,decrease,Least Concern
+Rhaebo_nasicus,Bufonidae,38.9067091,15786781524,14726318312,11130348206,-6.717412352,-29.49577348,decrease,Least Concern
+Plectrohyla_quecchi,Hylidae,0.666452281,2867275182,2950027244,2022165636,2.886087199,-29.47430896,decrease,Endangered
+Boana_leptolineata,Hylidae,5.51253773,91046632446,76876063054,64948815600,-15.56407855,-28.66423078,decrease,Least Concern
+Dendropsophus_brevifrons,Hylidae,1.142267267,1.00E+12,7.13E+11,7.17E+11,-28.92305961,-28.47319373,decrease,Least Concern
+Scinax_boesemani,Hylidae,4.016879403,1.31E+12,9.75E+11,9.56E+11,-25.62958841,-27.02738181,decrease,Least Concern
+Melanophryniscus_atroluteus,Bufonidae,8.646807176,1.71E+11,1.84E+11,1.26E+11,7.187290509,-26.68169062,decrease,Least Concern
+Sphaenorhynchus_surdus,Hylidae,8.257728297,63889247464,64683164266,47227518638,1.242645411,-26.07908136,decrease,Least Concern
+Rhinella_icterica,Bufonidae,0.417374016,4.52E+11,4.00E+11,3.47E+11,-11.4458229,-23.21103298,decrease,Least Concern
+Rhinella_acutirostris,Bufonidae,5.121348986,7.93E+11,6.17E+11,6.15E+11,-22.28976479,-22.49710034,decrease,Least Concern
+Rhinella_castaneotica,Bufonidae,9.814501772,2.04E+12,1.76E+12,1.62E+12,-13.88485483,-20.44504141,decrease,Least Concern
+Dendropsophus_parviceps,Hylidae,1.628236703,2.05E+12,1.73E+12,1.63E+12,-15.76572027,-20.42079039,decrease,Least Concern
+Scinax_granulatus,Hylidae,25.00381811,5.16E+11,4.47E+11,4.13E+11,-13.41629596,-20.00212637,decrease,Least Concern
+Dendropsophus_carnifex,Hylidae,13.86731139,2970370976,2799385802,2414736740,-5.756357552,-18.70588692,decrease,Least Concern
+Exerodonta_catracha,Hylidae,9.939545868,829287900,1305954880,684167368,57.4790709,-17.4994151,decrease,Near Threatened
+Dendropsophus_minutus,Hylidae,17.71001081,6.45E+12,5.72E+12,5.37E+12,-11.37001247,-16.68946197,decrease,Least Concern
+Scinax_crospedospilus,Hylidae,3.505113298,73688479110,71600061464,63420844550,-2.834116908,-13.9338397,decrease,Least Concern
+Dendropsophus_microps,Hylidae,3.042208887,1.80E+11,1.75E+11,1.58E+11,-2.770532399,-12.0749685,decrease,Least Concern
+Dendropsophus_cruzi,Hylidae,17.06675395,5.27E+11,4.82E+11,4.64E+11,-8.593405668,-11.87753774,decrease,Least Concern
+Scinax_ruber,Hylidae,1.286455349,5.50E+12,5.08E+12,4.89E+12,-7.736958184,-11.08245382,decrease,Least Concern
+Boana_bischoffi,Hylidae,5.348106819,1.35E+11,1.37E+11,1.20E+11,1.594408983,-10.91555436,decrease,Least Concern
+Scinax_catharinae,Hylidae,14.72357663,3.40E+11,3.25E+11,3.07E+11,-4.451376257,-9.779737435,decrease,Least Concern
+Aplastodiscus_weygoldti,Hylidae,5.712152074,53110998104,50422906480,48312120338,-5.061271149,-9.035563136,decrease,Least Concern
+Rhinella_ornata,Bufonidae,0.795289144,1.79E+11,1.74E+11,1.63E+11,-2.402553524,-8.832746577,decrease,Least Concern
+Sphaenorhynchus_dorisae,Hylidae,0.388511018,8.84E+11,9.45E+11,8.15E+11,6.869713854,-7.860060147,decrease,Least Concern
+Osornophryne_bufoniformis,Bufonidae,1.572882661,11215268292,12944955910,10510069996,15.42261472,-6.287841518,decrease,Near Threatened
+Osteopilus_vastus,Hylidae,30.91927431,22687788782,26142644644,21511303186,15.22782099,-5.185545437,decrease,Vulnerable
+Osteopilus_dominicensis,Hylidae,15.79692781,56677694672,41461503552,53745880276,-26.84687726,-5.172783426,decrease,Least Concern
+Scinax_perereca,Hylidae,3.505113298,2.76E+11,2.99E+11,2.64E+11,8.246936874,-4.562725896,decrease,Least Concern
+Sphaenorhynchus_lacteus,Hylidae,7.148624284,2.51E+12,2.41E+12,2.41E+12,-3.961029107,-3.92285852,decrease,Least Concern
+Isthmohyla_picadoi,Hylidae,27.7069093,4174888064,3162350304,4047941090,-24.25305169,-3.040727609,decrease,Least Concern
+Pseudis_cardosoi,Hylidae,2.097756206,38465526212,40950950862,37308971304,6.461434159,-3.006731018,decrease,Least Concern
+Boana_lanciformis,Hylidae,13.10790586,3.72E+12,3.66E+12,3.62E+12,-1.526773572,-2.585920206,decrease,Least Concern
+Aplastodiscus_albosignatus,Hylidae,9.49722541,20115308276,25708801452,20221255436,27.80714618,0.526699161,increase,Least Concern
+Rhinella_mirandaribeiroi,Bufonidae,1.944701989,4.11E+12,4.22E+12,4.16E+12,2.829916563,1.239885624,increase,Least Concern
+Dendropsophus_sanborni,Hylidae,7.073065103,8.09E+11,8.27E+11,8.23E+11,2.166200032,1.748404117,increase,Least Concern
+Boana_semiguttata,Hylidae,4.123133604,36445826144,43956304148,37206987308,20.60723764,2.088472795,increase,Least Concern
+Scinax_squalirostris,Hylidae,5.247679213,1.09E+12,1.13E+12,1.12E+12,4.118332727,2.982097617,increase,Least Concern
+Rhinella_arenarum,Bufonidae,4.481502475,1.42E+12,1.40E+12,1.46E+12,-1.042835245,2.991536207,increase,Least Concern
+Melanophryniscus_simplex,Bufonidae,18.6349217,23620184310,27218567128,24611840544,15.23435537,4.19834249,increase,Least Concern
+Dendropsophus_luteoocellatus,Hylidae,12.81005194,28105513204,33652037456,29736170498,19.73464854,5.801912536,increase,Least Concern
+Plectrohyla_guatemalensis,Hylidae,2.950524834,27962097912,35965879638,29638129794,28.62368107,5.993941825,increase,Near Threatened
+Dendropsophus_luddeckei,Hylidae,3.759784597,7250108850,8186707990,7719369770,12.91841487,6.472467238,increase,Least Concern
+Scinax_alter,Hylidae,2.905034504,1.57E+11,1.60E+11,1.71E+11,2.009676187,8.946180577,increase,Least Concern
+Atelopus_cruciger,Bufonidae,4.289915959,14791196478,15418444600,16134601282,4.240685484,9.082462031,increase,Critically Endangered
+Triprion_petasatus,Hylidae,19.01082124,1.37E+11,1.46E+11,1.50E+11,6.72524826,9.573771752,increase,Least Concern
+Dendropsophus_triangulum,Hylidae,14.12228426,1.92E+12,2.10E+12,2.10E+12,9.432731655,9.643243204,increase,Least Concern
+Duellmanohyla_rufioculis,Hylidae,22.57856002,22247960944,27279457292,24432446276,22.61553929,9.818811429,increase,Least Concern
+Trachycephalus_resinifictrix,Hylidae,8.433545165,1.32E+12,1.47E+12,1.46E+12,11.61695354,10.17129023,increase,Least Concern
+Boana_heilprini,Hylidae,22.89578053,28208760406,35885434740,31216109626,27.21379537,10.66104705,increase,Vulnerable
+Scinax_x-signatus,Hylidae,1.286455349,4.03E+12,4.63E+12,4.48E+12,14.89877177,11.0400572,increase,Least Concern
+Bokermannohyla_caramaschii,Hylidae,6.617625727,27084419562,31225789342,30160198612,15.29059824,11.35626718,increase,Least Concern
+Dendropsophus_seniculus,Hylidae,21.03312154,3.01E+11,3.17E+11,3.38E+11,5.478773926,12.48368773,increase,Least Concern
+Scinax_eurydice,Hylidae,21.86878758,3.73E+11,4.20E+11,4.21E+11,12.58017522,12.88123205,increase,Least Concern
+Scinax_similis,Hylidae,3.49896637,1.00E+12,1.12E+12,1.13E+12,12.06633262,12.93780433,increase,Least Concern
+Boana_prasina,Hylidae,6.656088173,84610163048,1.20E+11,95725232376,41.37628584,13.13680169,increase,Least Concern
+Corythomantis_greeningi,Hylidae,20.48583729,8.96E+11,1.12E+12,1.01E+12,24.74350782,13.25077854,increase,Least Concern
+Bromeliohyla_bromeliacia,Hylidae,11.93953056,5710611168,9586022360,6474637852,67.86333508,13.37907032,increase,Least Concern
+Dendropsophus_elegans,Hylidae,8.241190568,3.84E+11,4.51E+11,4.41E+11,17.37782896,14.57704071,increase,Least Concern
+Aplastodiscus_perviridis,Hylidae,3.221905173,2.32E+11,3.04E+11,2.68E+11,30.86153492,15.48499309,increase,Least Concern
+Dendropsophus_schubarti,Hylidae,26.28732829,1.87E+12,2.17E+12,2.17E+12,15.66795211,15.69657237,increase,Least Concern
+Smilisca_phaeota,Hylidae,10.61209121,3.04E+11,3.77E+11,3.54E+11,24.07082333,16.44600509,increase,Least Concern
+Scinax_funereus,Hylidae,2.292883169,8.57E+11,9.58E+11,9.98E+11,11.81352382,16.56694291,increase,Least Concern
+Nyctimantis_rugiceps,Hylidae,26.0201972,47677132188,72525744560,55783785790,52.11851307,17.00323243,increase,Least Concern
+Dendropsophus_riveroi,Hylidae,10.64046119,1.90E+12,2.21E+12,2.22E+12,16.5080027,17.013326,increase,Least Concern
+Incilius_nebulifer,Bufonidae,3.647032577,1.79E+11,2.17E+11,2.11E+11,20.79053277,17.7674729,increase,Least Concern
+Boana_semilineata,Hylidae,0.371284346,3.90E+11,4.31E+11,4.60E+11,10.58126065,17.88009741,increase,Least Concern
+Dendropsophus_leucophyllatus,Hylidae,1.677506976,1.70E+12,1.93E+12,2.00E+12,13.76499922,17.90775282,increase,Least Concern
+Scinax_quinquefasciatus,Hylidae,5.812420771,67338111124,77351036440,79549435302,14.86962605,18.1343432,increase,Least Concern
+Exerodonta_smaragdina,Hylidae,1.581227813,1.35E+11,1.79E+11,1.59E+11,32.42326756,18.14000874,increase,Least Concern
+Osornophryne_percrassa,Bufonidae,0.749419741,2535132918,4090508788,3003990468,61.35283318,18.49439714,increase,Vulnerable
+Dendropsophus_giesleri,Hylidae,16.85580063,2.34E+11,2.83E+11,2.77E+11,21.17152735,18.50788871,increase,Least Concern
+Trachycephalus_coriaceus,Hylidae,12.43463141,3.67E+12,4.33E+12,4.37E+12,18.14642381,19.17992447,increase,Least Concern
+Dendropsophus_rubicundulus,Hylidae,4.703030996,7.49E+11,9.95E+11,8.95E+11,32.79756785,19.36807629,increase,Least Concern
+Rhaebo_guttatus,Bufonidae,6.415782534,5.39E+12,6.36E+12,6.45E+12,18.09282632,19.65735049,increase,Least Concern
+Dendropsophus_miyatai,Hylidae,5.11836998,1.19E+12,1.44E+12,1.44E+12,21.05252255,21.05252255,increase,Least Concern
+Boana_albopunctata,Hylidae,3.157988047,3.87E+12,4.65E+12,4.71E+12,20.10337946,21.63520227,increase,Least Concern
+Incilius_occidentalis,Bufonidae,11.31195651,3.62E+11,4.78E+11,4.41E+11,31.92654155,21.697548,increase,Least Concern
+Boana_albomarginata,Hylidae,28.99243211,4.92E+11,6.38E+11,6.03E+11,29.80786787,22.57608137,increase,Least Concern
+Smilisca_baudinii,Hylidae,24.51892899,9.12E+11,1.14E+12,1.12E+12,24.73219816,23.12849475,increase,Least Concern
+Tlalocohyla_smithii,Hylidae,23.94390661,2.26E+11,2.83E+11,2.79E+11,25.21751038,23.46528724,increase,Least Concern
+Boana_raniceps,Hylidae,25.36199708,5.45E+12,6.82E+12,6.77E+12,25.11265503,24.12466652,increase,Least Concern
+Melanophryniscus_montevidensis,Bufonidae,0.159535605,1.27E+11,1.61E+11,1.58E+11,27.51366779,24.71613768,increase,Near Threatened
+Rhinella_henseli,Bufonidae,14.17182337,1.87E+11,2.28E+11,2.33E+11,22.31631097,24.97025926,increase,Least Concern
+Rhaebo_blombergi,Bufonidae,11.64587519,17977880594,33948524698,22526614104,88.83496595,25.30183403,increase,Critically Endangered
+Dendropsophus_rhodopeplus,Hylidae,2.492067955,1.95E+12,2.44E+12,2.48E+12,24.9870697,26.65317309,increase,Least Concern
+Dendropsophus_bokermanni,Hylidae,3.34153935,7.55E+11,9.44E+11,9.61E+11,25.08382329,27.31067392,increase,Least Concern
+Dendropsophus_marmoratus,Hylidae,15.80283369,2.29E+12,2.86E+12,2.95E+12,24.70343247,28.61904742,increase,Least Concern
+Trachycephalus_jordani,Hylidae,2.386361572,54005511800,68953940728,70041810384,27.67945054,29.69381837,increase,Least Concern
+Smilisca_sila,Hylidae,16.98420579,1.08E+11,1.45E+11,1.40E+11,34.21481257,30.22893381,increase,Least Concern
+Dendropsophus_labialis,Hylidae,4.176275142,11075291584,15226879516,14588316586,37.48513437,31.71948093,increase,Least Concern
+Tlalocohyla_loquax,Hylidae,18.43328378,3.45E+11,4.59E+11,4.58E+11,33.04486966,32.63586561,increase,Least Concern
+Osteocephalus_planiceps,Hylidae,9.717248847,4.56E+11,5.80E+11,6.05E+11,26.97616072,32.65450907,increase,Least Concern
+Scinax_rostratus,Hylidae,15.59287749,1.25E+12,1.65E+12,1.66E+12,31.97283113,32.75004111,increase,Least Concern
+Dendropsophus_leali,Hylidae,7.03817779,1.09E+12,1.45E+12,1.45E+12,32.86105666,32.97164045,increase,Least Concern
+Pseudis_minuta,Hylidae,2.097756206,3.22E+11,4.08E+11,4.32E+11,26.53821526,33.95984483,increase,Least Concern
+Incilius_coccifer,Bufonidae,8.182485923,1.18E+11,1.80E+11,1.59E+11,52.10037406,34.08229872,increase,Least Concern
+Atelopus_pastuso,Bufonidae,1.618297743,3376114692,4038601188,4551421210,19.62274853,34.81239902,increase,Critically Endangered
+Scinax_flavoguttatus,Hylidae,3.326032797,1.12E+11,1.55E+11,1.52E+11,37.76903569,35.28721156,increase,Least Concern
+Bokermannohyla_hylax,Hylidae,2.502897333,35870520924,54667135752,48534021884,52.40128759,35.30336509,increase,Least Concern
+Scinax_staufferi,Hylidae,21.43911062,4.66E+11,6.19E+11,6.32E+11,32.96954465,35.7292015,increase,Least Concern
+Rhinella_hoogmoedi,Bufonidae,2.43584643,1.36E+11,1.86E+11,1.86E+11,36.17653673,36.55701713,increase,Least Concern
+Rhinella_alata,Bufonidae,5.50294037,42522255722,51089290442,58342394126,20.1471784,37.20437248,increase,Least Concern
+Osteopilus_septentrionalis,Hylidae,28.17427746,46876189846,48191176236,64329473080,2.805233092,37.23272581,increase,Least Concern
+Hyloscirtus_colymba,Hylidae,27.20821666,10317279766,17020765496,14209742878,64.97338331,37.72761038,increase,Endangered
+Scinax_nebulosus,Hylidae,0.362950134,4.67E+12,6.49E+12,6.49E+12,38.86381705,38.92864551,increase,Least Concern
+Dendropsophus_haraldschultzi,Hylidae,7.03817779,9.25E+11,1.29E+12,1.30E+12,39.99521315,40.05698565,increase,Least Concern
+Scinax_wandae,Hylidae,0.258304614,1.68E+11,2.45E+11,2.36E+11,45.73281361,40.25018467,increase,Least Concern
+Rhinella_veraguensis,Bufonidae,2.725451001,88593876492,1.22E+11,1.25E+11,37.62151321,40.53278847,increase,Least Concern
+Scinax_luizotavioi,Hylidae,1.122002469,23449305074,27803540946,32974508786,18.5687203,40.62040936,increase,Least Concern
+Rhinella_humboldti,Bufonidae,0.09052325,2.00E+11,2.76E+11,2.83E+11,37.8912547,41.39326195,increase,Least Concern
+Tlalocohyla_picta,Hylidae,23.94390661,2.71E+11,3.72E+11,3.84E+11,37.35287153,41.91138923,increase,Least Concern
+Incilius_alvarius,Bufonidae,1.444124418,1.39E+11,1.91E+11,1.98E+11,37.18891066,42.21391538,increase,Least Concern
+Dendropsophus_acreanus,Hylidae,22.86150124,7.26E+11,1.04E+12,1.04E+12,43.46293997,43.51144355,increase,Least Concern
+Pseudis_platensis,Hylidae,1.424386089,6.41E+11,8.32E+11,9.26E+11,29.64998918,44.43382245,increase,Least Concern
+Dendropsophus_nanus,Hylidae,1.438114836,4.83E+12,6.69E+12,7.00E+12,38.30059248,44.69463694,increase,Least Concern
+Dendropsophus_columbianus,Hylidae,16.38772209,16761067432,30691120982,24252483044,83.1095848,44.69533723,increase,Least Concern
+Osteocephalus_fuscifacies,Hylidae,5.513436316,42037829264,65534950698,60898682970,55.89518261,44.86638353,increase,Least Concern
+Dendropsophus_rossalleni,Hylidae,2.415278171,1.12E+12,1.54E+12,1.64E+12,38.03234737,47.19466874,increase,Least Concern
+Scinax_nasicus,Hylidae,21.06495666,1.71E+12,2.52E+12,2.54E+12,47.41990769,48.58625971,increase,Least Concern
+Dryaderces_pearsoni,Hylidae,29.47013119,4.16E+11,6.17E+11,6.24E+11,48.15735094,49.96626352,increase,Data Deficient
+Scinax_cuspidatus,Hylidae,12.59513442,1.68E+11,2.18E+11,2.53E+11,29.36642063,50.14570602,increase,Least Concern
+Rhaebo_haematiticus,Bufonidae,24.19484981,3.25E+11,4.93E+11,4.88E+11,51.91634957,50.28292838,increase,Least Concern
+Boana_picturata,Hylidae,1.43210763,60892445822,88123395838,91529781886,44.71975078,50.31385363,increase,Least Concern
+Isthmohyla_tica,Hylidae,0.366660188,6912087356,12143913034,10520689088,75.69096582,52.20711988,increase,Critically Endangered
+Sphaenorhynchus_platycephalus,Hylidae,0.388511018,24067490086,35830101612,36643021814,48.87344498,52.25111419,increase,Least Concern
+Scinax_pedromedinae,Hylidae,6.096714061,6.45E+11,9.83E+11,9.83E+11,52.42862382,52.54962434,increase,Least Concern
+Melanophryniscus_stelzneri,Bufonidae,1.63417582,32008886012,52576423820,49306818516,64.25571262,54.04103254,increase,Least Concern
+Atelopus_ignescens,Bufonidae,2.632107952,14358948366,23438752162,22327762206,63.23446233,55.49719685,increase,Critically Endangered
+Scarthyla_goinorum,Hylidae,6.198039268,1.22E+12,1.84E+12,1.90E+12,50.98064958,55.75683453,increase,Least Concern
+Scinax_obtriangulatus,Hylidae,14.06340508,90187355360,1.45E+11,1.41E+11,60.27105838,56.55948062,increase,Least Concern
+Boana_rosenbergi,Hylidae,3.572365158,1.52E+11,2.30E+11,2.39E+11,51.3966248,57.39673743,increase,Least Concern
+Boana_riojana,Hylidae,4.211783529,2.48E+11,3.99E+11,3.91E+11,61.14054582,57.62971479,increase,Least Concern
+Smilisca_sordida,Hylidae,5.622387089,42718050126,62460969808,67394106654,46.21680911,57.76494118,increase,Least Concern
+Dendropsophus_bipunctatus,Hylidae,1.969745672,99983893352,1.34E+11,1.58E+11,33.73847507,58.20482749,increase,Least Concern
+Dendropsophus_walfordi,Hylidae,4.844949031,9.32E+11,1.47E+12,1.48E+12,57.61923252,58.34294696,increase,Least Concern
+Trachycephalus_mesophaeus,Hylidae,2.431218835,2.09E+11,3.21E+11,3.31E+11,54.10274153,58.6015084,increase,Least Concern
+Scinax_argyreornatus,Hylidae,26.5881812,1.49E+11,2.24E+11,2.37E+11,49.82469653,58.83266253,increase,Least Concern
+Rhinella_poeppigii,Bufonidae,8.490444604,4.14E+11,6.51E+11,6.61E+11,57.30675425,59.78332864,increase,Least Concern
+Dendropsophus_decipiens,Hylidae,3.291034828,3.25E+11,4.77E+11,5.20E+11,46.70530049,59.95679733,increase,Least Concern
+Rhaebo_hypomelas,Bufonidae,1.096478748,8331594818,18746647284,13330669446,125.0067087,60.00141314,increase,Least Concern
+Smilisca_fodiens,Hylidae,21.08503242,2.08E+11,3.27E+11,3.32E+11,57.36338894,60.06145405,increase,Least Concern
+Scinax_acuminatus,Hylidae,17.39957575,6.30E+11,1.01E+12,1.01E+12,60.89210786,60.8983355,increase,Least Concern
+Scinax_littoralis,Hylidae,4.399292498,13657186234,20281607392,22035142272,48.50502178,61.34467155,increase,Least Concern
+Boana_caingua,Hylidae,4.802558138,2.67E+11,4.28E+11,4.32E+11,60.26607849,61.88469231,increase,Least Concern
+Pseudis_paradoxa,Hylidae,9.332596779,3.24E+12,5.11E+12,5.25E+12,57.80828817,62.36993442,increase,Least Concern
+Dendropsophus_minusculus,Hylidae,12.72612297,5.68E+11,9.37E+11,9.25E+11,64.77110689,62.74733935,increase,Least Concern
+Pseudacris_cadaverina,Hylidae,13.25819931,16814139868,30001013402,27544985322,78.42728583,63.82036511,increase,Least Concern
+Dendropsophus_branneri,Hylidae,1.806596111,4.05E+11,6.78E+11,6.64E+11,67.66924176,64.08191847,increase,Least Concern
+Boana_nympha,Hylidae,3.296020276,2.90E+11,4.44E+11,4.77E+11,53.11412835,64.58644477,increase,Least Concern
+Dendropsophus_joannae,Hylidae,12.23034374,1.26E+11,1.98E+11,2.13E+11,57.64105279,69.26469253,increase,Least Concern
+Incilius_luetkenii,Bufonidae,5.810764556,88048981244,1.46E+11,1.50E+11,65.26241404,69.93180726,increase,Least Concern
+Scinax_arduous,Hylidae,10.21061035,5625206408,11374702154,9666025008,102.2095072,71.83413917,increase,Least Concern
+Atelopus_limosus,Bufonidae,2.531255035,2299088788,4958255282,3966542384,115.6617573,72.52671601,increase,Critically Endangered
+Rhinella_ocellata,Bufonidae,2.680955856,1.41E+12,2.44E+12,2.44E+12,73.76140305,73.86464411,increase,Least Concern
+Osteopilus_pulchrilineatus,Hylidae,15.79692781,29834481612,55522024074,52237883256,86.10018031,75.09231075,increase,Vulnerable
+Sphaenorhynchus_carneus,Hylidae,2.259472092,1.04E+12,1.77E+12,1.82E+12,70.92705025,75.72178748,increase,Least Concern
+Nannophryne_variegata,Bufonidae,27.78648706,1.14E+11,2.04E+11,2.01E+11,79.56657014,76.07918132,increase,Least Concern
+Lysapsus_limellum,Hylidae,1.656696189,6.62E+11,1.16E+12,1.17E+12,75.35273691,76.33771628,increase,Least Concern
+Boana_pellucens,Hylidae,5.294643104,61480357818,1.01E+11,1.09E+11,63.83357775,77.09908003,increase,Least Concern
+Rhinella_dapsilis,Bufonidae,1.177607871,4.50E+11,7.47E+11,8.03E+11,66.16978151,78.39858434,increase,Least Concern
+Incilius_leucomyos,Bufonidae,3.468505416,13076448658,18882093094,23385581588,44.39771522,78.83740608,increase,Near Threatened
+Scinax_sugillatus,Hylidae,5.790586105,46797045142,80280234210,83887731310,71.5497933,79.25860715,increase,Least Concern
+Melanophryniscus_rubriventris,Bufonidae,3.809506551,91710819058,1.75E+11,1.66E+11,91.19130139,81.12083977,increase,Least Concern
+Scinax_elaeochroa,Hylidae,3.446927244,43155354280,78330134094,78206976176,81.50733646,81.22195375,increase,Least Concern
+Trachycephalus_cunauaru,Hylidae,0.838867455,1.00E+12,1.56E+12,1.81E+12,55.60868584,81.44534143,increase,Least Concern
+Rhaebo_caeruleostictus,Bufonidae,36.48592706,34183648942,61414827152,62053404678,79.66141431,81.52949319,increase,Critically Endangered
+Itapotihyla_langsdorffii,Hylidae,42.72413568,3.73E+11,6.46E+11,6.78E+11,73.35830928,82.01774199,increase,Least Concern
+Scinax_caldarum,Hylidae,0.258304614,2026281822,3077743982,3713625344,51.89121022,83.27289441,increase,Endangered
+Incilius_melanochlorus,Bufonidae,8.748204793,16290940844,23664362378,30088331908,45.26086986,84.69364168,increase,Least Concern
+Dendropsophus_shiwiarum,Hylidae,5.633758577,67582480872,1.25E+11,1.25E+11,84.34244512,84.72185563,increase,Least Concern
+Osteocephalus_yasuni,Hylidae,12.85300249,97490074380,1.78E+11,1.82E+11,82.18598382,86.21166963,increase,Least Concern
+Smilisca_puma,Hylidae,10.61209121,11936927896,21790492850,22252163416,82.54690855,86.41449132,increase,Least Concern
+Osteocephalus_vilarsi,Hylidae,7.372963231,3993500030,8557863962,7447770034,114.2948265,86.49730758,increase,Least Concern
+Atelopus_spurrelli,Bufonidae,7.154990425,30028911484,56090577476,56174567470,86.78858042,87.06827752,increase,Near Threatened
+Rhinella_dorbignyi,Bufonidae,5.121348986,4.75E+11,8.18E+11,8.92E+11,72.09391771,87.74069538,increase,Least Concern
+Rhinella_bergi,Bufonidae,0.840685129,4.49E+11,8.27E+11,8.44E+11,83.99432663,87.82921085,increase,Least Concern
+Sphaenorhynchus_caramaschii,Hylidae,2.41255431,72755407282,1.22E+11,1.37E+11,67.21777009,88.49604014,increase,Least Concern
+Incilius_marmoreus,Bufonidae,9.154201434,1.28E+11,2.43E+11,2.45E+11,89.90944572,91.50532827,increase,Least Concern
+Osteocephalus_alboguttatus,Hylidae,9.449366265,18996364424,43097993518,36644755886,126.8749565,92.90404768,increase,Least Concern
+Boana_rubracyla,Hylidae,17.68474528,27891934072,51933928846,53855034088,86.19694393,93.08461704,increase,Least Concern
+Boana_almendarizae,Hylidae,9.905858004,5704198902,13780746650,11046079886,141.5895183,93.64822433,increase,Near Threatened
+Aplastodiscus_ehrhardti,Hylidae,4.022800291,32458720824,63546658428,63007793856,95.77684152,94.11668808,increase,Least Concern
+Scarthyla_vigilans,Hylidae,6.198039268,1.76E+11,3.02E+11,3.41E+11,71.74827918,94.16667439,increase,Least Concern
+Ptychohyla_hypomykter,Hylidae,7.823638794,10096827282,21690782684,19743578442,114.8277085,95.5424005,increase,Vulnerable
+Isthmohyla_pictipes,Hylidae,0.366660188,2571692270,2634981262,5039210498,2.460986205,95.94920266,increase,Critically Endangered
+Rhinella_proboscidea,Bufonidae,7.352607646,2.40E+11,4.19E+11,4.75E+11,74.85432466,98.19606546,increase,Least Concern
+Boana_wavrini,Hylidae,1.258870866,1.63E+12,3.23E+12,3.24E+12,98.66712125,99.16286963,increase,Least Concern
+Dendropsophus_sartori,Hylidae,4.725150209,56766826484,1.14E+11,1.14E+11,99.96754966,100.2158206,increase,Least Concern
+Phyllodytes_luteolus,Hylidae,3.85992317,30930408408,53240310946,62251971342,72.12935,101.2646277,increase,Least Concern
+Aplastodiscus_albofrenatus,Hylidae,15.71184367,18796583742,36957588094,38128236204,96.61864412,102.8466275,increase,Least Concern
+Osteocephalus_deridens,Hylidae,5.513436316,53726488056,1.10E+11,1.09E+11,105.2811702,103.1737602,increase,Least Concern
+Hyloscirtus_phyllognathus,Hylidae,15.15909283,1.04E+11,2.25E+11,2.11E+11,116.4553987,103.4886056,increase,Least Concern
+Incilius_coniferus,Bufonidae,2.591822466,1.17E+11,2.34E+11,2.40E+11,100.8227969,105.9056918,increase,Least Concern
+Scinax_tymbamirim,Hylidae,22.1306917,58316329508,1.17E+11,1.20E+11,101.0715314,106.5622818,increase,Least Concern
+Isthmohyla_pseudopuma,Hylidae,1.070988036,6109557134,11738835494,12876772802,92.13889381,110.7644224,increase,Least Concern
+Scinax_perpusillus,Hylidae,1.982741165,12549233426,26533201422,26513572794,111.4328463,111.2764333,increase,Critically Endangered
+Dendropsophus_ebraccatus,Hylidae,21.02558228,2.11E+11,4.52E+11,4.46E+11,114.0942756,111.5207619,increase,Least Concern
+Scinax_agilis,Hylidae,4.144019275,60240481630,1.28E+11,1.28E+11,112.7218779,113.1395104,increase,Least Concern
+Osteocephalus_cannatellai,Hylidae,1.683404042,41672766384,90317876314,89434682674,116.7311752,114.6118207,increase,Least Concern
+Scinax_trapicheiroi,Hylidae,0.203425984,17182340930,41728279166,36886762448,142.8556117,114.6783293,increase,Least Concern
+Dendropsophus_subocularis,Hylidae,3.34153935,30520267752,70730102336,65661386138,131.7479745,115.140269,increase,Least Concern
+Scinax_kennedyi,Hylidae,2.026513858,53754629868,1.11E+11,1.16E+11,105.594593,115.440971,increase,Least Concern
+Trachycephalus_nigromaculatus,Hylidae,13.77310674,2.94E+11,6.27E+11,6.34E+11,113.4910624,115.7613729,increase,Least Concern
+Exerodonta_sumichrasti,Hylidae,3.744302648,42688180174,98240002178,92105478670,130.1339663,115.7634228,increase,Least Concern
+Hyloscirtus_callipeza,Hylidae,12.51770876,2627095800,8204641900,5745482380,212.3084396,118.7009084,increase,Vulnerable
+Dendropsophus_tritaeniatus,Hylidae,10.74701889,76613413198,1.71E+11,1.68E+11,123.0114773,119.4771305,increase,Least Concern
+Scinax_oreites,Hylidae,3.999497763,17556675910,39864948110,38617619722,127.0643276,119.9597459,increase,Least Concern
+Melanophryniscus_pachyrhynus,Bufonidae,1.313804163,15704751438,44168636324,34812584160,181.2437783,121.669119,increase,Least Concern
+Incilius_bocourti,Bufonidae,4.090711711,12849198078,32909097634,28672056400,156.1179105,123.1427691,increase,Least Concern
+Osteocephalus_mimeticus,Hylidae,14.50834927,1.26E+11,2.82E+11,2.84E+11,124.7675077,125.6579647,increase,Least Concern
+Dendropsophus_werneri,Hylidae,2.284457439,47303618870,1.02E+11,1.07E+11,115.7544038,127.2035791,increase,Least Concern
+Rhinella_merianae,Bufonidae,9.534480158,2.95E+11,6.17E+11,6.79E+11,108.862184,129.8635909,increase,Least Concern
+Scinax_boulengeri,Hylidae,5.790586105,75418858280,1.65E+11,1.75E+11,118.7119551,132.0066872,increase,Least Concern
+Incilius_ibarrai,Bufonidae,6.453287495,9857882298,26934385388,22886252766,173.2268917,132.1619601,increase,Least Concern
+Dendropsophus_pseudomeridianus,Hylidae,1.677506976,9376203718,21680506542,21839398180,131.2290474,132.923674,increase,Least Concern
+Sphaenorhynchus_prasinus,Hylidae,2.259472092,1.08E+11,2.35E+11,2.56E+11,116.625357,136.5561089,increase,Least Concern
+Hyloscirtus_bogotensis,Hylidae,0.454667307,16422651134,39915620274,39043785598,143.0522328,137.7435,increase,Near Threatened
+Scinax_strigilatus,Hylidae,17.39957575,29246097952,70635163472,70081496672,141.5199579,139.6268274,increase,Least Concern
+Dendropsophus_phlebodes,Hylidae,7.738926361,60701438136,1.38E+11,1.48E+11,127.3761089,143.0584898,increase,Least Concern
+Peltophryne_guentheri,Bufonidae,16.45586011,18993715162,40438661206,46428193458,112.9054841,144.439769,increase,Least Concern
+Melanophryniscus_klappenbachi,Bufonidae,1.514907196,1.15E+11,2.62E+11,2.82E+11,128.8300052,146.2082058,increase,Least Concern
+Atelopus_sernai,Bufonidae,0.880093446,679571370,2868079798,1699421236,322.0424704,150.0725179,increase,Critically Endangered
+Hyloscirtus_palmeri,Hylidae,22.87199728,97876485638,2.51E+11,2.48E+11,156.5443423,152.9236929,increase,Least Concern
+Dendropsophus_koechlini,Hylidae,2.454098058,4.71E+11,1.08E+12,1.20E+12,128.7634581,153.7060145,increase,Least Concern
+Scinax_rizibilis,Hylidae,3.999497763,44803427094,97792196726,1.14E+11,118.2694563,154.6913348,increase,Least Concern
+Plectrohyla_pokomchi,Hylidae,3.387255463,1031923916,3654947082,2663953366,254.1876514,158.1540484,increase,Endangered
+Atelopus_varius,Bufonidae,0.174088379,18013491168,49993376970,46870521880,177.5329696,160.1967683,increase,Critically Endangered
+Exerodonta_xera,Hylidae,3.031394672,3616922544,6421628832,9467551780,77.54399642,161.7571061,increase,Vulnerable
+Pseudis_bolbodactyla,Hylidae,9.332596779,2.87E+11,7.57E+11,7.69E+11,164.1266913,168.2222534,increase,Least Concern
+Duellmanohyla_uranochroa,Hylidae,5.056481804,9797952630,27316786882,26326661696,178.8009691,168.6955397,increase,Vulnerable
+Hyloscirtus_armatus,Hylidae,8.494294867,44440741486,1.17E+11,1.20E+11,164.0645024,170.3527319,increase,Near Threatened
+Hyloscirtus_alytolylax,Hylidae,7.910783505,36118966348,98441711472,97928515680,172.548529,171.1276805,increase,Least Concern
+Boana_maculateralis,Hylidae,6.339881504,64182347486,1.75E+11,1.77E+11,173.0894263,176.4818372,increase,Least Concern
+Incilius_canaliferus,Bufonidae,6.117052823,20015188624,59835493126,56411044768,198.9504333,181.8411849,increase,Least Concern
+Duellmanohyla_soralia,Hylidae,10.93771617,1443114322,3961898422,4106793150,174.5380849,184.5785041,increase,Endangered
+Atelopus_nepiozomus,Bufonidae,0.081747821,5203904530,18298585144,14971478346,251.6318379,187.6970217,increase,Endangered
+Dendropsophus_robertmertensi,Hylidae,7.348618932,22390321174,64723353538,64724282488,189.0684463,189.0725952,increase,Least Concern
+Dendropsophus_manonegra,Hylidae,1.550750147,2627741904,10424992424,7669376974,296.7281721,191.861882,increase,Least Concern
+Incilius_cristatus,Bufonidae,9.797313456,4800202528,19111694594,14281014226,298.143505,197.5085768,increase,Endangered
+Rhinella_arunco,Bufonidae,5.674640622,23664454814,62704001056,72148701624,164.9712472,204.8821627,increase,Near Threatened
+Dendropsophus_padreluna,Hylidae,11.90525333,1704055956,5899444372,5281344330,246.2001556,209.9278701,increase,Least Concern
+Incilius_campbelli,Bufonidae,3.468505416,8793833298,37189199062,27331487132,322.9008875,210.8028798,increase,Least Concern
+Duellmanohyla_schmidtorum,Hylidae,7.939033382,13020011594,48333000130,40514831126,271.2208686,211.1735411,increase,Near Threatened
+Boana_callipleura,Hylidae,6.023366648,17229178314,53087681890,53702433120,208.1266032,211.6946853,increase,Least Concern
+Scinax_imbegue,Hylidae,1.29867746,15378851600,48000149600,48000149600,212.1179061,212.1179061,increase,Least Concern
+Rhaebo_glaberrimus,Bufonidae,3.746202976,53337042792,1.69E+11,1.69E+11,217.3269434,217.4067215,increase,Least Concern
+Incilius_tacanensis,Bufonidae,18.52589828,2396986282,9295932268,7623716686,287.8174997,218.0542477,increase,Endangered
+Smilisca_cyanosticta,Hylidae,15.62977541,28474371984,95169272562,90722130808,234.2278194,218.609769,increase,Least Concern
+Atelopus_chiriquiensis,Bufonidae,6.872042224,4241910528,14497304224,13589694550,241.7635551,220.3673076,increase,Extinct
+Scinax_curicica,Hylidae,14.31870627,12546547512,36548928524,40235080576,191.3066602,220.686472,increase,Least Concern
+Scinax_altae,Hylidae,17.1723887,10153177298,31436011234,32957419666,209.6174755,224.6020305,increase,Least Concern
+Incilius_aucoinae,Bufonidae,14.63424826,7262902934,22457920074,23888612284,209.2141018,228.9127295,increase,Least Concern
+Boana_marginata,Hylidae,5.348106819,9617301140,32438873472,31658198044,237.2970545,229.179648,increase,Least Concern
+Sphaenorhynchus_planicola,Hylidae,2.41255431,19004929376,49766406754,63558956526,161.8605193,234.434058,increase,Least Concern
+Dendropsophus_timbeba,Hylidae,1.809256739,46844342902,1.43E+11,1.61E+11,204.6172281,244.6285427,increase,Least Concern
+Incilius_mazatlanensis,Bufonidae,6.584015535,57137511396,1.94E+11,1.98E+11,240.0830874,245.8933835,increase,Least Concern
+Isthmohyla_lancasteri,Hylidae,1.070988036,6832320202,23293867052,23653132174,240.9364076,246.1947256,increase,Least Concern
+Lysapsus_laevis,Hylidae,18.30899276,81172935848,2.21E+11,2.96E+11,172.3826347,264.0762828,increase,Least Concern
+Duellmanohyla_salvavida,Hylidae,3.547659586,2204582916,7191109076,8120004600,226.1890956,268.3238467,increase,Endangered
+Atelopus_carrikeri,Bufonidae,7.154990425,1679709646,7349517928,6236602436,337.5469264,271.2905055,increase,Endangered
+Isthmohyla_zeteki,Hylidae,23.55471434,1856460144,7591891004,6896176568,308.944465,271.469142,increase,Vulnerable
+Melanophryniscus_tumifrons,Bufonidae,1.514907196,12757028588,47821809174,47822026674,274.8663636,274.8680686,increase,Least Concern
+Duellmanohyla_chamulae,Hylidae,0.358801534,1083152264,4786329496,4070326188,341.8888881,275.7852264,increase,Endangered
+Dendropsophus_anceps,Hylidae,5.633758577,1.33E+11,4.14E+11,5.03E+11,211.7684552,278.7409642,increase,Least Concern
+Ecnomiohyla_miliaria,Hylidae,0.95656138,15031956988,61837477906,58434669054,311.3734356,288.736271,increase,Least Concern
+Hyloscirtus_larinopygion,Hylidae,9.129123733,7185519564,34259897580,28076181470,376.790819,290.7327956,increase,Least Concern
+Dendropsophus_norandinus,Hylidae,4.703030996,3908313770,15207526544,15333963130,289.1071045,292.3421719,increase,Least Concern
+Charadrahyla_nephila,Hylidae,4.79104396,2162465356,12979349394,8763741774,500.2107436,305.2662277,increase,Endangered
+Isthmohyla_debilis,Hylidae,0.537475892,3379140204,15057617372,13939994858,345.6049901,312.5308219,increase,Critically Endangered
+Scinax_ictericus,Hylidae,3.146464676,1.57E+11,6.22E+11,6.66E+11,296.1366544,324.0503428,increase,Least Concern
+Plectrohyla_lacertosa,Hylidae,2.481605526,844106610,4386270016,3624649824,419.6346011,329.4066391,increase,Endangered
+Dendropsophus_bogerti,Hylidae,3.291034828,3693646146,17203907086,15970198186,365.7703095,332.3694679,increase,Least Concern
+Dendropsophus_meridensis,Hylidae,3.759784597,1542927460,9173487940,6762785902,494.5508248,338.3087395,increase,Endangered
+Isthmohyla_rivularis,Hylidae,2.660975887,5482836870,24836587978,24160563850,352.9879069,340.6580831,increase,Endangered
+Exerodonta_bivocata,Hylidae,2.260918138,653662496,3332659824,2882859258,409.8441236,341.0317673,increase,Endangered
+Ptychohyla_zophodes,Hylidae,1.318155414,6821260570,31364114896,30754855872,359.7993959,350.8676301,increase,Vulnerable
+Atelopus_laetissimus,Bufonidae,3.212507097,398763934,2519724018,1826677080,531.8836292,358.0848277,increase,Endangered
+Dendrophryniscus_brevipollicatus,Bufonidae,2.397190471,4983933760,15812945518,22888185730,217.2784046,359.2393646,increase,Least Concern
+Atelopus_elegans,Bufonidae,0.628436858,11752899072,54506055754,54676991726,363.7669006,365.221316,increase,Endangered
+Charadrahyla_taeniopus,Hylidae,11.23663235,8218652344,40433609800,38501503506,391.9737216,368.4649246,increase,Vulnerable
+Incilius_cavifrons,Bufonidae,4.155744876,2557784850,14412118094,12844983222,463.4609218,402.1917001,increase,Endangered
+Plectrohyla_ixil,Hylidae,8.290887513,3958392674,20361215782,19909268284,414.380898,402.9634481,increase,Vulnerable
+Ptychohyla_euthysanota,Hylidae,5.561532197,17027878504,89178053344,86096237952,423.7179331,405.6192874,increase,Least Concern
+Dendropsophus_virolinensis,Hylidae,6.235063109,3441055624,17272269188,18015255738,401.9468174,423.5386377,increase,Least Concern
+Plectrohyla_sagorum,Hylidae,6.336910581,5638491144,32347571910,29786117512,473.6919875,428.2639761,increase,Vulnerable
+Atelopus_bomolochos,Bufonidae,1.640705229,6937859482,38206761156,37416781588,450.699553,439.3130502,increase,Critically Endangered
+Rhinella_sternosignata,Bufonidae,11.65899641,16171864490,90659863736,87403687600,460.6024203,440.4675982,increase,Least Concern
+Plectrohyla_glandulosa,Hylidae,8.890300967,1319464210,8043021186,7320823120,509.5672111,454.8330197,increase,Critically Endangered
+Scinax_duartei,Hylidae,3.326032797,4672440666,26095583830,26786021012,458.500058,473.2768574,increase,Least Concern
+Plectrohyla_matudai,Hylidae,6.533950638,10816988526,72100146606,62948456678,566.5454663,481.9406809,increase,Least Concern
+Plectrohyla_hartwegi,Hylidae,2.096361178,10863977908,68800602616,64023709140,533.2910762,489.3210542,increase,Endangered
+Peltophryne_empusa,Bufonidae,7.172383172,8575349428,34100479056,50840334232,297.6570208,492.8660361,increase,Least Concern
+Tlalocohyla_godmani,Hylidae,18.43328378,5306929796,32400045192,32825954752,510.5233428,518.5488788,increase,Vulnerable
+Incilius_mccoyi,Bufonidae,1.444124418,4499425424,36082747462,28270155976,701.9412272,528.3059127,increase,Least Concern
+Smilisca_dentata,Hylidae,5.622387089,755413794,5094652112,4816996220,574.4187295,537.6632593,increase,Endangered
+Incilius_tutelarius,Bufonidae,3.919697377,4856569278,33567771834,31310068958,591.1828065,544.6951987,increase,Vulnerable
+Osteocephalus_carri,Hylidae,1.388337101,4351872356,29803025234,28845280430,584.8322468,562.8245976,increase,Least Concern
+Atelopus_subornatus,Bufonidae,1.095413288,809854468,6116948624,5456443424,655.3145492,573.7560438,increase,Critically Endangered
+Atelopus_senex,Bufonidae,0.174088379,1705752910,13526376492,11946828660,692.9856905,600.3844807,increase,Extinct
+Bromeliohyla_dendroscarta,Hylidae,11.93953056,1785592982,16953860750,13804997392,849.4807003,673.1323729,increase,Endangered
+Atelopus_mindoensis,Bufonidae,4.947590977,4102919120,34830513182,34531355744,748.9202971,741.6289655,increase,Critically Endangered
+Oreophrynella_macconnelli,Bufonidae,1.061658017,1361989714,3381765786,11488198942,148.2959857,743.4864687,increase,Vulnerable
+Dendropsophus_gryllatus,Hylidae,1.824648988,235058708,876112748,1987293108,272.7208217,745.4454314,increase,Endangered
+Plectrohyla_avia,Hylidae,2.481605526,2064300308,18327845148,18182710440,787.8478135,780.8171161,increase,Endangered
+Atelopus_walkeri,Bufonidae,5.198096567,1049929102,10288002206,9322025778,879.875897,787.8719297,increase,Data Deficient
+Atelopus_longirostris,Bufonidae,1.198021619,3825104906,35299916964,34338310404,822.8483357,797.7089844,increase,Critically Endangered
+Megastomatohyla_mixomaculata,Hylidae,11.61602596,1617233194,15318412994,14732208976,847.1987745,810.9514343,increase,Endangered
+Hyloscirtus_denticulentus,Hylidae,22.87199728,2016911566,21254844222,20553712554,953.8312428,919.0686047,increase,Vulnerable
+Incilius_perplexus,Bufonidae,6.117052823,7976192858,79319328054,81926673750,894.4509801,927.1400806,increase,Least Concern
+Plectrohyla_acanthodes,Hylidae,2.066193729,2704342076,28275782824,28050564604,945.5697552,937.2417326,increase,Endangered
+Scinax_blairi,Hylidae,0.012082527,17073444912,1.79E+11,1.82E+11,945.9985646,968.5944778,increase,Least Concern
+Ptychohyla_leonhardschultzei,Hylidae,0.161892072,5373802980,66163550710,58734692204,1131.223976,992.9818682,increase,Least Concern
+Dendropsophus_stingi,Hylidae,16.5787207,1085553934,12347704276,12134819380,1037.456545,1017.84583,increase,Least Concern
+Rhinella_macrorhina,Bufonidae,1.418836611,2272950496,25744456270,25612923772,1032.644829,1026.857968,increase,Vulnerable
+Atelopus_muisca,Bufonidae,2.629204768,447367002,5751128406,5069634736,1185.550427,1033.216065,increase,Critically Endangered
+Ptychohyla_macrotympanum,Hylidae,4.944428394,2455597930,30330367794,29819556406,1135.152035,1114.35012,increase,Vulnerable
+Charadrahyla_chaneque,Hylidae,4.79104396,592919494,10112333258,7923109080,1605.515396,1236.287499,increase,Vulnerable
+Exerodonta_melanomma,Hylidae,3.744302648,2193830082,30585181652,29932060048,1294.145422,1264.374584,increase,Vulnerable
+Exerodonta_chimalapa,Hylidae,1.581227813,614793292,9489432210,9510047182,1443.515899,1446.869054,increase,Endangered
+Charadrahyla_altipotens,Hylidae,11.18537876,267131308,5114885728,4417353728,1814.745885,1553.626361,increase,Endangered
+Incilius_gemmifer,Bufonidae,6.69840257,347863224,6443484784,6218677672,1752.304107,1687.678962,increase,Endangered
+Atelopus_pulcher,Bufonidae,4.970059523,764536352,15976055544,13977602470,1989.639754,1728.245633,increase,Vulnerable
+Isthmohyla_angustilineata,Hylidae,0.17031097,1095360790,12390090426,20033606210,1031.142409,1728.95046,increase,Critically Endangered
+Melanophryniscus_moreirae,Bufonidae,14.46315323,1385224548,27385109100,28909029206,1876.943676,1986.956172,increase,Near Threatened
+Atelopus_coynei,Bufonidae,0.125161474,1410316460,41689194320,41390086466,2856.017001,2834.808438,increase,Critically Endangered
+Pseudacris_clarkii,Hylidae,0.250638441,461487330,15699339820,15699448392,3301.900507,3301.924034,increase,Least Concern
+Duellmanohyla_ignicolor,Hylidae,0.161892072,244701628,8992832810,8992832810,3575.019608,3575.019608,increase,Near Threatened
+Incilius_spiculatus,Bufonidae,4.155744876,551060800,22023069594,22064045954,3896.486339,3903.922245,increase,Endangered
+Megastomatohyla_mixe,Hylidae,13.46773896,122350836,8197273882,8197273882,6599.810275,6599.810275,increase,Critically Endangered
+Megastomatohyla_nubicola,Hylidae,4.296937304,60655934,4489086436,4570053314,7300.902335,7434.387837,increase,Critically Endangered
