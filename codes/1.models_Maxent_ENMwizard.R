@@ -101,7 +101,7 @@ pred.cut <- select_vars_b(pred.cut, cutoff=.75, names.only = F)
 ## This is specially usefull when there are a large number of models and species.
 
 ## method based on the number of occs: jackknife: 15 occs, block more than 15
-method <- ifelse(sapply(spp.occ.list, nrow) <= 15, "jackknife", "block")
+# method <- ifelse(sapply(spp.occ.list, nrow) <= 15, "jackknife", "block")
 cbind(names(spp.occ.list), names(pred.cut), method)
 names(spp.occ.list[87:89]) == names(method[87:89])
 names(spp.occ.list) == names(pred.cut)
@@ -111,7 +111,7 @@ ENMeval.res.lst <- ENMevaluate_b(spp.occ.list, pred.cut,
                                  RMvalues = seq(0.5, 5, 0.5),
                                  fc = c("L", "P", "Q", "LP", "LQ", 
                                         "PQ", "LPQ"),
-                                 method=method, algorithm="maxent.jar", 
+                                 method="block", algorithm="maxent.jar", 
                                  numCores =8 , parallel = T)
 
 saveRDS(ENMeval.res.lst, "ENMeval.res.lst.rds")
